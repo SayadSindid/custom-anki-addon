@@ -1,0 +1,10 @@
+{
+	"type": "module",
+	"scripts": {
+		"dev": "tsx src/main.ts"
+	},
+	"dependencies": {
+		"dotenv": "^17.2.0",
+		"yanki-connect": "^3.0.2"
+	}
+}
